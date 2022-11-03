@@ -4,5 +4,5 @@
 ### Results
 
 
-<img src="https://github.com/noorkhokhar99/Displaying-the-coordinates/blob/main/Screen%20Shot%201444-04-07%20at%207.46.20%20PM.png">
+<img src="https://github.com/noorkhokhar99/Open-CV-Banana-Detection/blob/main/Screen%20Shot%201444-04-08%20at%209.37.07%20PM.png">
 
